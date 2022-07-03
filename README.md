@@ -2,7 +2,7 @@ Code Assessment
 =============
 
 The aim of this assessment is to 
-* Demonstrate an anagram program using Scala to identify all anagram words given in the input file i.e. words.txt
+* Demonstrate a program using Scala to identify all anagram words given in the input file i.e. words.txt
 * Once identified, write the pair of anagram words to an output file i.e. output_anagram.txt
 * Create test cases and cover a few edge cases too
 
@@ -16,7 +16,7 @@ The aim of this assessment is to
 ###  Setup
 Download the git repo
 ```
-git clone https://github.com/chandanparihar1986/code_assessment_250622.git
+git clone https://github.com/chandanparihar1986/anagram_assessment_030722.git
 ```
 
 
@@ -41,7 +41,6 @@ Else it will keep popping up SDK related issues.
     abode adobe
     Adler alder
     Alexander Alexandre
-
 
 
 ###  Out of scope

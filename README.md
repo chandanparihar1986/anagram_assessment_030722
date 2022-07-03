@@ -28,11 +28,15 @@ Else it will keep popping up SDK related issues.
 
 
 ###  How to Run
-    java -cp /Users/cparihar/Documents/Projects/anagram_assessment/out/artifacts/anagram_assessment_jar/anagram_assessment.jar com.myorg.programs.anagram
+    java -cp anagram_assessment/out/artifacts/anagram_assessment_jar/anagram_assessment.jar com.myorg.programs.anagram
 
 
 ### Unit Test Instructions
 - Test cases can be found here -> src/main/test/anagram_test
+
+### Input/Output
+-  Input - anagram_assessment/words.txt
+-  Output - anagram_assessment/output_anagram.txt
 
 ###  Sample output
     Abel able

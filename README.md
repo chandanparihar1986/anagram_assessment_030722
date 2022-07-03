@@ -28,7 +28,7 @@ Else it will keep popping up SDK related issues.
 
 
 ###  How to Run
-    java -cp /anagram_assessment/out/artifacts/anagram_assessment_jar/anagram_assessment.jar anagram
+    java -cp /Users/cparihar/Documents/Projects/anagram_assessment/out/artifacts/anagram_assessment_jar/anagram_assessment.jar com.myorg.programs.anagram
 
 
 ### Unit Test Instructions
